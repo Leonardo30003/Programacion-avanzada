@@ -1,0 +1,21 @@
+def suma():
+    return 2+2
+
+print (suma())
+
+def resta():
+    return 5-2
+    print(resta())
+
+def multiplicacion():
+    return 5*3
+    print(multiplicacion())
+
+def division():
+    return 20/2
+    print(division())
+
+def divisionExacta():
+    return 20//2
+    print(divisionExacta())
+    
