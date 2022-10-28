@@ -1,17 +1,39 @@
-#tipos de datos primitivos
+# tipos de datos primitivos
 
-#matematicos
-entero=2
-#tipo=type(entero)
-#print(tipo)
+# matematicos
+entero = 2
+# tipo=type(entero)
+# print(tipo)
 
 print(type(entero))
 
-float=5.4
+float = 5.4
 print(type(float))
 
-#string
-hola='hola guapo'
+hola = 'hola guapo'
 print(type(hola)
-)
+      )
 
+# string
+
+nombre = "Leonardo"
+apellido = "Carrión"
+
+
+# compuestos
+
+# listas
+
+lista = ["Juan", "Pedro", "Martha"]
+print(type(lista))
+print(lista[2])
+lista[2] = "Juana"  # remplazar
+lista.append("Diego")  # agregar
+print(lista)
+lista2 = lista.copy()
+lista2.clear()
+print(lista2)
+# tuplas
+
+
+# diccionarios
