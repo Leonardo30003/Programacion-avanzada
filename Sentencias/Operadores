@@ -1,0 +1,8 @@
+if 4 > 5:
+    print("Esto es verdadero")
+elif 5 < 4:
+    print("esto se va a imprimir ")
+if 6==9:
+    print("esto tambien se va a imprimir")
+else:
+    print("esto es el else")

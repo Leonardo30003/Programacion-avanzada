@@ -1,0 +1,15 @@
+frutas =["Pera","Manzana","fresas","banana"]
+for fruta in frutas:
+    if fruta=="fresas":
+        break
+    print(fruta)
+
+for fruta in frutas:
+    if fruta=="fresas":
+        continue
+    print(fruta)
+  
+personas=["juan","maria","leo","arllet","mario","ricardo","luis","dany","anita","andres"]
+for persona in personas:
+    print(persona)
+    

@@ -1,0 +1,28 @@
+num1 = 10
+num2 = 3
+num3= 5
+# 1
+if num1 > num2 or num2 > num1 or num3 == num1:
+    print("si es verdadero ")
+else:
+    print("es falso")
+
+# 2
+edad1 = 10
+edad2 = 20
+edad3=5
+
+if edad1 > edad2 and edad2 > edad1 or edad3 == edad1:
+    print("es verdadero")
+else:
+    print("es falso")
+
+#3
+nota1=10
+nota2=5
+nota3= 3
+
+if nota1>nota2 and nota2>nota1 or nota2==nota3:
+    print("verdadero")
+else:
+    print("falso") 
